@@ -1,5 +1,5 @@
 ### 💫 Hi, I'm Akhil Mohandas:
-👩🏻‍💻I'm currently working as Quality Specialist @ Amazon<br>👩🏻‍🎓PGP in Data science and Business analytics @ Mccombs school of Business<br>📈Reading and Learning about ML and data science<br>💭Currently in pursuit of being a Data Analytic
+👩🏻‍💻I'm currently working as Quality Specialist @ Amazon<br>👩🏻‍🎓PGP in Data science and Business analytics @ Mccombs school of Business<br>📈Reading and Learning about ML and data science<br>💭Currently in pursuit of being a Data Analyst
 
 
 ## 🌐 Socials:
